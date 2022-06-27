@@ -1,7 +1,7 @@
 ---
 title: Pony Wong (王立新)
 role: PhD Student
-avatar_filename: 微信图片_20210518221159.jpg
+avatar_filename: avatar.jpg
 bio: My research interests include distributed robotics, mobile computing and
   programmable matter.
 social:
